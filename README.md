@@ -3,7 +3,7 @@
   </h1>
   
 <h1 align="center"> Nexter Project </h1> 
-<p align="center"><a href="https://jaubert-machado.github.io/nexter-project/">Project link</a></p>
+<p align="center"><a href="https://jaubert-machado.github.io/nexter/">Project link</a></p>
 
 <p align="center"> Project made during the Advanced CSS and Sass (by: Jonas Schmedtmann) course, Nexter is a website for buying and selling luxury homes. </p>
 <h1 align="center">
